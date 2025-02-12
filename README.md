@@ -57,7 +57,7 @@ This project is a **Fake News Detection System** that classifies news articles a
 - Deploy as a cloud-based API for broader use.
 
 ## Contributors
-- **Your Name** ([GitHub](https://github.com/sakuna47))
+- **sakuna sankalpa** ([GitHub](https://github.com/sakuna47))
 
 ## License
 This project is open-source under the **MIT License**.
