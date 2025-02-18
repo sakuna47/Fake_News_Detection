@@ -14,7 +14,7 @@ This project is a **Fake News Detection System** that classifies news articles a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
+   git clone https://github.com/sakuna47/fake-news-detection.git
    ```
 2. Install dependencies:
    ```bash
